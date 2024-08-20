@@ -145,6 +145,15 @@ h2 {
     text-align: center;
 }
 
+.about-my-projects {
+    display: flex;
+}
+
+#my-projectss {
+    max-width: 1060px;
+    margin: 48px auto;
+}
+
 #pricing-section {
     max-width: 1060px;
     margin: 48px auto;
