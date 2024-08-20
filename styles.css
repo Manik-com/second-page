@@ -107,6 +107,44 @@ h2 {
     margin-top: 20px;
 }
 
+#what-id-do-section {
+    max-width: 1060px;
+    margin: 48px auto;
+}
+
+#what-i-do-boxes {
+    display: flex;
+}
+
+.what-i-do-box {
+    width: 33%;
+}
+
+.what-i-do-cards {
+    background-color: #ffffff;
+    margin: 0 10px;
+    padding: 20px;
+}
+
+.course-name {
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+.about-course {
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300;
+    color: #55206D;
+    text-align: center;
+}
+
 #pricing-section {
     max-width: 1060px;
     margin: 48px auto;
@@ -252,6 +290,25 @@ h2 {
     background-color: #ffffff;
     color: #2f2f2f;
 }
+
+#questions-section {
+    max-width: 1060px;
+    margin: 48px auto;
+}
+
+.questions {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #55206D;
+}
+
+.questions-answer {
+    list-style-type: none;
+    padding: 0px;
+    line-height: 35px;
+}
+
 
 #footer {
     width: 100%;
