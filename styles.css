@@ -154,6 +154,10 @@ h2 {
     margin: 48px auto;
 }
 
+.arrow {
+    margin-bottom: -4px;
+}
+
 #pricing-section {
     max-width: 1060px;
     margin: 48px auto;
