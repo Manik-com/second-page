@@ -149,66 +149,56 @@ h2 {
     text-align: center;
 }
 
-.about-my-projects {
-    display: flex;
-}
-
 #my-projects {
     max-width: 1060px;
     margin: 48px auto;
 }
 
-.arrow {
-    margin-bottom: -4px;
+
+.about-my-first-project {
+    display: flex;
 }
 
-.box-section {
-    max-width: 15%;
-}
-
-.text-section {
-    max-width: 85%;
-}
-
-.box-1 {
-    background-color: #19acff;
+.logo-1 {
     color: #ffffff;
-    padding: 70px;
+    background-color: #19ACFF;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    padding: 45px;
+    border-radius: 10px;
     text-align: center;
     font-family: Poppins;
     font-size: 48px;
     font-weight: 700;
-    margin-bottom: 30px;
-    border-radius: 10px;
-    width: 3px;
-    height: 35px;
+    box-shadow: 6px 10px 20px -9px #000000;
 }
 
-.box-2 {
-    background-color: #ffe819;
+.logo-2 {
     color: #000000;
-    padding: 70px;
+    background-color: #FFE819;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    padding: 45px;
+    border-radius: 10px;
     text-align: center;
     font-family: Poppins;
     font-size: 48px;
     font-weight: 700;
-    margin-bottom: 30px;
-    border-radius: 10px;
-    width: 3px;
-    height: 35px;
+    box-shadow: 6px 10px 20px -9px #000000;
 }
 
-.box-3 {
-    background-color: #ff1919;
+.logo-3 {
     color: #ffffff;
-    padding: 70px;
+    background-color: #FF1919;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    padding: 45px;
+    border-radius: 10px;
     text-align: center;
     font-family: Poppins;
     font-size: 48px;
     font-weight: 700;
-    border-radius: 10px;
-    width: 3px;
-    height: 35px;
+    box-shadow: 6px 10px 20px -9px #000000;
 }
 
 .project-name {
